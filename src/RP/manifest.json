@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "DarkSoulsUI",
+        "description": "DarkSoulsUI",
+        "min_engine_version": [
+            1,
+            19,
+            60
+        ],
+        "uuid": "9b237486-2f27-47fe-a696-bd422ede8972",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "832eb92c-074a-4763-86ce-fef105e96f6f",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "e5e12c97-d7c7-4bb0-b6a0-e1058e16a538",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
